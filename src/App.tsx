@@ -4,10 +4,11 @@ export default () => {
       <header className="App-header">
         <a>
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            KEKW
+            {/* Edit <code>src/App.js</code> and save to reload.{' '} */}
           </p>
         </a>
       </header>
     </div>
-  );
-};
+  )
+}
