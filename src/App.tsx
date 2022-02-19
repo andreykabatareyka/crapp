@@ -1,4 +1,4 @@
-export default function App(){
+export default () =>{
   return (
     <div className="App">
       <header className="App-header">
